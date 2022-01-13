@@ -1,0 +1,3 @@
+#set unordered
+himpunan_warna = {'Hijau', 'Putih', 'Kuning', 'Merah'}
+print(himpunan_warna)
